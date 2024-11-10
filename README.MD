@@ -1,4 +1,4 @@
-![Preview](https://i.ibb.co/x8nZXBV/your-image.jpg)
+![Preview](https://i.postimg.cc/Vkrs8kkW/Screenshot-2024-11-10-225307.png)
 
 # Data Description
 
