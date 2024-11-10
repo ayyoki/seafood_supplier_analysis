@@ -1,3 +1,5 @@
+![Preview](https://i.ibb.co/x8nZXBV/your-image.jpg)
+
 # Data Description
 
 - **Rows:** 64,998
